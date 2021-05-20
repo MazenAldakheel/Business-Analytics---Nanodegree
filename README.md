@@ -21,10 +21,13 @@ A jewelry company wants to put in a bid to purchase a large set of diamonds, but
 [Project_3_file.pdf](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515287/Project_3_file.pdf)
 
 
-## Project 4: 
+## Project 4: Flight Delays and Cancellations
 Built interactive dashboards with Tableau software and used them to discover and communicate insights from data.
+
 [Tableaufile.pdf](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515358/Tableaufile.pdf)
+
 P.S. the visuals links in the PDF file doesn't work please use the anternative links below: 
+
 https://public.tableau.com/views/TableauProject_16165266596620/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 https://public.tableau.com/views/TableauProject2_16165268119670/Sheet2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 https://public.tableau.com/views/TableauProject3_16165270018550/Dashboard2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
