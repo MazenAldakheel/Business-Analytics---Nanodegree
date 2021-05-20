@@ -11,3 +11,5 @@ This project is aimed at analysis by interpreting data visualization and explain
 
 ## Project 2: Analyze NYSE Data 
 In this project I analyzed real life data from the New York Stock Exchange. I've be drawn a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies.
+[project2 slide.pdf](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515216/project2.slide.pdf)
+[project22.xlsx](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515217/project22.xlsx)
