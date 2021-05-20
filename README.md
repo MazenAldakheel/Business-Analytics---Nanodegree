@@ -26,8 +26,8 @@ Built interactive dashboards with Tableau software and used them to discover and
 
 [Tableaufile.pdf](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515358/Tableaufile.pdf)
 
-P.S. the visuals links in the PDF file doesn't work please use the anternative links below: 
+P.S. the visuals link in the PDF file doesn't work please use the anternative links below: 
 
-https://public.tableau.com/views/TableauProject_16165266596620/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
-https://public.tableau.com/views/TableauProject2_16165268119670/Sheet2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
-https://public.tableau.com/views/TableauProject3_16165270018550/Dashboard2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+- https://public.tableau.com/views/TableauProject_16165266596620/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+- https://public.tableau.com/views/TableauProject2_16165268119670/Sheet2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+- https://public.tableau.com/views/TableauProject3_16165270018550/Dashboard2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
