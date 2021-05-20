@@ -7,3 +7,7 @@ Business Analytics Nanodegree aims to help students master data fundamentals app
 [My interpretation.pdf](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515176/My.interpretation.pdf)
 
 This project is aimed at analysis by interpreting data visualization and explain my insights  from Tableau.
+
+
+## Project 2: Analyze NYSE Data 
+In this project I analyzed real life data from the New York Stock Exchange. I've be drawn a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies.
