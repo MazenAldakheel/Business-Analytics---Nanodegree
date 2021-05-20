@@ -19,3 +19,12 @@ In this project I analyzed real life data from the New York Stock Exchange. I've
 A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. In this project, I used the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds.
 [new-diamonds.xlsx](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515285/new-diamonds.xlsx)
 [Project_3_file.pdf](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515287/Project_3_file.pdf)
+
+
+## Project 4: 
+Built interactive dashboards with Tableau software and used them to discover and communicate insights from data.
+[Tableaufile.pdf](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515358/Tableaufile.pdf)
+P.S. the visuals links in the PDF file doesn't work please use the anternative links below: 
+https://public.tableau.com/views/TableauProject_16165266596620/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+https://public.tableau.com/views/TableauProject2_16165268119670/Sheet2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+https://public.tableau.com/views/TableauProject3_16165270018550/Dashboard2?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
