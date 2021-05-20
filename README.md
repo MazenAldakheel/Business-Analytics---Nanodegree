@@ -13,3 +13,9 @@ This project is aimed at analysis by interpreting data visualization and explain
 In this project I analyzed real life data from the New York Stock Exchange. I've drawn a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies and created income statement and forecasted financial metrics.
 [project2 slide.pdf](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515216/project2.slide.pdf)
 [project22.xlsx](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515217/project22.xlsx)
+
+
+## Project 3: Predicting Diamond Prices
+A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. In this project, used the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds.
+[new-diamonds.xlsx](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515285/new-diamonds.xlsx)
+[Project_3_file.pdf](https://github.com/MazenAldakheel/Business-Analytics---Nanodegree/files/6515287/Project_3_file.pdf)
